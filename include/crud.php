@@ -9,7 +9,7 @@
 
 <body>
   <?php
-  //definir les constantes d'environnement
+  //definir les constantes d'environnement a l'aide des constantes
 
   define('DBHOST', 'localhost');
   define('DBUSER', 'root');
