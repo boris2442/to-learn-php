@@ -87,14 +87,8 @@
   //supprimer un utilisateur
   $sql = "DELETE FROM `donneesapprenants` WHERE `id`>1";
   $requette = $db->query($sql);
-
-
   //SAVOIR le nombre de ligne qui ont ete supprimer
-
   // echo $db->rowCount();
-
-
-
 
 
   ?>
