@@ -21,7 +21,7 @@
   //DSN de connexion
 
   //$dsn="mysql:dbname=crudfevriermonth; host=localhost;"
-  $dsn = "mysql:dbname=" . DBNAME . "; host=" . DBHOST;
+  $dsn = "mysql:dbname=". DBNAME . "; host=" . DBHOST;
 
   //se connecter a la base en utilisant le trycatch
 
